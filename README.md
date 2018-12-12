@@ -8,3 +8,4 @@
 - [I wish there was an app for...](https://iwishtherewasanappfor.com) - in case you need ideas
 - [Favicon.io](https://favicon.io/) - generate favicons, free and easy
 - [LogoHub](https://logohub.io) - free and easy logo generation
+- [Cruip](http://cruip.com) - Free landing page templates
