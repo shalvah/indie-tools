@@ -10,3 +10,6 @@
 - [LogoHub](https://logohub.io) - free and easy logo generation
 - [Cruip](http://cruip.com) - Free landing page templates
 - [Hero Patterns](https://www.heropatterns.com/) - A collection of free repeatable SVG background patterns
+- [Iconscout](https://iconscout.com) - High quality, editable icons, illustration and stock photos
+- [Freepik] - Free vectors, photos and PSD downloads
+- [FlatIcons] - Free vector icons in SVG, PSD, PNG, icon font
