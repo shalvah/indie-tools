@@ -1,7 +1,7 @@
 # indie-tools
 
 - [Fontello](http://fontello.com) - create your own icon sets
-- [Undraw](undraw.io) - Free illustrations
+- [Undraw](https://undraw.co) - Free illustrations
 - [Unsplash](https://unsplash.com) - free stock photos
 - [Metatags](https://metatags.io/) - generate social media previews. ALso use https://richpreview.com, https://www.heymeta.com/, https://social.pilcro.com/ to test previews
 - [Emoji builder](http://phlntn.com/emojibuilder/) - just in case you need custom emojis
