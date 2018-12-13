@@ -11,5 +11,5 @@
 - [Cruip](http://cruip.com) - Free landing page templates
 - [Hero Patterns](https://www.heropatterns.com/) - A collection of free repeatable SVG background patterns
 - [Iconscout](https://iconscout.com) - High quality, editable icons, illustration and stock photos
-- [Freepik] - Free vectors, photos and PSD downloads
-- [FlatIcons] - Free vector icons in SVG, PSD, PNG, icon font
+- [Freepik](https://freepik.com) - Free vectors, photos and PSD downloads
+- [FlatIcons](https://flaticon.com) - Free vector icons in SVG, PSD, PNG, icon font
