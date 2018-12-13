@@ -13,3 +13,6 @@
 - [Iconscout](https://iconscout.com) - High quality, editable icons, illustration and stock photos
 - [Freepik](https://freepik.com) - Free vectors, photos and PSD downloads
 - [FlatIcons](https://flaticon.com) - Free vector icons in SVG, PSD, PNG, icon font
+- [Pexels](https://www.pexels.com) - Free stock photos
+- [Pixarbay](https://pixabay.com) - Free stock photos
+- [FREE FRONTEND](https://freefrontend.com/) - Hand-picked HTML and CSS code examples, tutorials and articles
