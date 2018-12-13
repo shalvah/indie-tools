@@ -9,3 +9,4 @@
 - [Favicon.io](https://favicon.io/) - generate favicons, free and easy
 - [LogoHub](https://logohub.io) - free and easy logo generation
 - [Cruip](http://cruip.com) - Free landing page templates
+- [Hero Patterns](https://www.heropatterns.com/) - A collection of free repeatable SVG background patterns
