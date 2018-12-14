@@ -13,10 +13,10 @@
 - [Freepik](https://freepik.com) - Free vector arts, photos and PSD downloads
 - [FlatIcons](https://flaticon.com) - Free vector icons in SVG, PSD, PNG, icon font
 - [FREE FRONTEND](https://freefrontend.com/) - hand-picked HTML and CSS code examples, tutorials and articles
+- [Dribbble](https://dribbble.com/) - UI design inspiration. Other options: [Uplabs](https://www.uplabs.com/), [Collect UI](http://collectui.com/)
+- [Soundbible](http://soundbible.com/) - free sound clips and effects.
 - [Emoji builder](http://phlntn.com/emojibuilder/) - just in case you need custom emojis, for whatever reason
 - [I wish there was an app for...](https://iwishtherewasanappfor.com) - if you're looking for ideas
-- [Dribbble](https://dribbble.com/) - Incase you have no idea how the UI of your app should look like, dribbble has lots of stunning UI concepts you can apply in your app. Other great Options: [Uplabs](https://www.uplabs.com/), [Collect UI](http://collectui.com/)
-- [Soundbible](http://soundbible.com/) - Are you in need of cool sound effects, maybe for your notifications, user interactions, etc. Sound bible a huge collection of free sound effects you can use in your project.
 
 
 ## Contributing to this list
