@@ -2,7 +2,7 @@
 
 - [Fontello](http://fontello.com) - create your own icon sets
 - [Undraw](https://undraw.co) - free illustrations
-- [Unsplash](https://unsplash.com) - free stock photos. Other options: [Pexels](https://www.pexels.com), [Pixarbay](https://pixabay.com)
+- [Unsplash](https://unsplash.com) - free stock photos. Other options: [Pexels](https://www.pexels.com), [Pixabay](https://pixabay.com)
 - [Metatags](https://metatags.io/) - generate social media previews.
 - [RichPreview](https://richpreview.com) - test how links to your site would show up on social media. Other options: [HeyMeta](https://www.heymeta.com/), [Pilcro](https://social.pilcro.com/)
 - [Favicon.io](https://favicon.io/) - generate favicons, free and easy
@@ -13,6 +13,8 @@
 - [Freepik](https://freepik.com) - Free vector arts, photos and PSD downloads
 - [FlatIcons](https://flaticon.com) - Free vector icons in SVG, PSD, PNG, icon font
 - [FREE FRONTEND](https://freefrontend.com/) - hand-picked HTML and CSS code examples, tutorials and articles
+- [Dribbble](https://dribbble.com/) - UI design inspiration. Other options: [Uplabs](https://www.uplabs.com/), [Collect UI](http://collectui.com/)
+- [Soundbible](http://soundbible.com/) - free sound clips and effects.
 - [Emoji builder](http://phlntn.com/emojibuilder/) - just in case you need custom emojis, for whatever reason
 - [I wish there was an app for...](https://iwishtherewasanappfor.com) - if you're looking for ideas
 
