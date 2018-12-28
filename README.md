@@ -1,5 +1,6 @@
 # indie-tools
 
+- [Icons8](https://icons8.com) - free icons, music, stock photos, vector illustrations.
 - [Fontello](http://fontello.com) - create your own icon sets.
 - [Undraw](https://undraw.co) - free illustrations.
 - [Unsplash](https://unsplash.com) - free stock photos. Other options: [Pexels](https://www.pexels.com), [Pixabay](https://pixabay.com).
