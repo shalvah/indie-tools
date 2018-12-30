@@ -5,7 +5,8 @@
 - [Undraw](https://undraw.co) - free illustrations.
 - [Unsplash](https://unsplash.com) - free stock photos. Other options: [Pexels](https://www.pexels.com), [Pixabay](https://pixabay.com).
 - [Iconscout](https://iconscout.com) - high quality, editable icons, illustration and stock photos.
-- [Freepik](https://freepik.com) - free vector arts, photos and PSD downloads.
+- [VectorLogoZone](https://vectorlogo.zone) - freely-downloadable brand logos as vector SVGs
+- [Freepik](https://freepik.com) - free vector art, photos and PSD downloads.
 - [FlatIcons](https://flaticon.com) - free vector icons in SVG, PSD, PNG, and base64 formats.
 - [Metatags](https://metatags.io/) - generate social media previews.
 - [RichPreview](https://richpreview.com) - test how links to your site would show up on social media. Other options: [HeyMeta](https://www.heymeta.com/), [Pilcro](https://social.pilcro.com/).
