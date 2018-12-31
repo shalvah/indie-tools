@@ -1,5 +1,6 @@
 # indie-tools
 
+- [Jolloficons](https://jolloficons.com) - Free 3d, isometric, abstract icons and emojis.
 - [Icons8](https://icons8.com) - free icons, music, stock photos, vector illustrations.
 - [Fontello](http://fontello.com) - create your own icon sets.
 - [Undraw](https://undraw.co) - free illustrations.
