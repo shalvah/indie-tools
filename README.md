@@ -2,6 +2,7 @@
 
 - [Icons8](https://icons8.com) - free icons, music, stock photos, vector illustrations.
 - [Fontello](http://fontello.com) - create your own icon sets.
+- [Jolloficons](https://jolloficons.com) - Free 3D, isometric, and abstract icons and emojis.
 - [Undraw](https://undraw.co) - free illustrations.
 - [Unsplash](https://unsplash.com) - free stock photos. Other options: [Pexels](https://www.pexels.com), [Pixabay](https://pixabay.com).
 - [Iconscout](https://iconscout.com) - high quality, editable icons, illustration and stock photos.
