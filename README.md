@@ -6,7 +6,7 @@
 - [Undraw](https://undraw.co) - free illustrations. Other options: [Humaaans](http://humaaans.com) (human-focused).
 - [Unsplash](https://unsplash.com) - free stock photos. Other options: [Pexels](https://www.pexels.com), [Pixabay](https://pixabay.com), [Pikwizard](https://pikwizard.com) (human-focused).
 - [Iconscout](https://iconscout.com) - high quality, editable icons, illustration and stock photos.
-- [VectorLogoZone](https://vectorlogo.zone) - freely-downloadable brand logos as vector SVGs
+- [VectorLogoZone](https://vectorlogo.zone) - freely-downloadable brand logos as vector SVGs. Other options: [Clearbit Logo API](https://clearbit.com/logo)
 - [Freepik](https://freepik.com) - free vector art, photos and PSD downloads.
 - [FlatIcons](https://flaticon.com) - free vector icons in SVG, PSD, PNG, and base64 formats.
 - [Metatags](https://metatags.io/) - generate social media previews.
