@@ -14,7 +14,8 @@
 - [Favicon.io](https://favicon.io/) - generate favicons, free and easy.
 - [LogoHub](https://logohub.io) - free and easy logo generation.
 - [Cruip](http://cruip.com) - free landing page templates.
-- [Hero Patterns](https://www.heropatterns.com/) - free repeatable SVG background patterns.
+- [Cool Backgrounds](https://coolbackgrounds.io/) - free background images/patterns. Other options: [Hero Patterns](https://www.heropatterns.com/), [Novapattern](https://www.novapattern.com/), [Flaticon](https://pattern.flaticon.com/).
+- [Mixkit](https://mixkit.co/) - free motion backgrounds/videos. Other options: [coverr](http://coverr.co).
 - [FREE FRONTEND](https://freefrontend.com/) - hand-picked HTML and CSS code examples, tutorials and articles.
 - [Dribbble](https://dribbble.com/) - UI design inspiration. Other options: [Uplabs](https://www.uplabs.com/), [Collect UI](http://collectui.com/).
 - [Soundbible](http://soundbible.com/) - free sound clips and effects.
