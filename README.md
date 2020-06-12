@@ -24,6 +24,7 @@
 - [Emoji builder](http://phlntn.com/emojibuilder/) - just in case you need custom emojis, for whatever reason :eyes:.
 - [I wish there was an app for...](https://iwishtherewasanappfor.com) - if you're looking for ideas.
 - [Excalidraw](https://excalidraw.com/) - create illustrations with a hand-drawn look and feel
+- [Photopea](https://www.photopea.com/) - edit photos online with ease without downloading software.
 
 ## Contributing to this list
 - If there are any useful resources not included here, do send a PR.
