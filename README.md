@@ -12,7 +12,7 @@
 - [FlatIcons](https://flaticon.com) - free vector icons in SVG, PSD, PNG, and base64 formats.
 - [Tint and Shade Generator](https://maketintsandshades.com/) - generate tints and shades of any colour.
 - [Metatags](https://metatags.io/) - generate social media previews.
-- [RichPreview](https://richpreview.com) - test how links to your site would show up on social media. Other options: [HeyMeta](https://www.heymeta.com/), [Pilcro](https://social.pilcro.com/).
+- [HeyMeta](https://www.heymeta.com/) - test how links to your site would show up on social media.
 - [Favicon.io](https://favicon.io/) - generate favicons, free and easy.
 - [LogoHub](https://logohub.io) - free and easy logo generation.
 - [Cruip](http://cruip.com) - free landing page templates.
