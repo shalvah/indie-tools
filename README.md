@@ -21,7 +21,7 @@
 - [FREE FRONTEND](https://freefrontend.com/) - hand-picked HTML and CSS code examples, tutorials and articles.
 - [Dribbble](https://dribbble.com/) - UI design inspiration. Other options: [Uplabs](https://www.uplabs.com/), [Collect UI](http://collectui.com/).
 - [Soundbible](http://soundbible.com/) - free sound clips and effects.
-- [Paletton](https://paletton.com) - build color palettes to use in your site or app.
+- [Paletton](https://paletton.com) - build color palettes to use in your site or app. Other options: [Coolors](https://coolors.co).
 - [Emoji builder](http://phlntn.com/emojibuilder/) - just in case you need custom emojis, for whatever reason :eyes:.
 - [I wish there was an app for...](https://iwishtherewasanappfor.com) - if you're looking for ideas.
 - [Excalidraw](https://excalidraw.com/) - create illustrations with a hand-drawn look and feel
