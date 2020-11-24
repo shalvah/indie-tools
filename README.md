@@ -5,7 +5,7 @@
 - [Icons8](https://icons8.com) - free icons, music, stock photos, vector illustrations.
 - [Fontello](http://fontello.com) - create your own icon sets.
 - [Jolloficons](https://jolloficons.com) - Free 3D, isometric, and abstract icons and emojis.
-- [Undraw](https://undraw.co) - free illustrations. Other options: [Humaaans](http://humaaans.com) (human-focused).
+- [Undraw](https://undraw.co) - free illustrations. Other options: [Scale](https://2.flexiple.com/scale/all-illustrations), [Humaaans](http://humaaans.com) (human-focused).
 - [Unsplash](https://unsplash.com) - free stock photos. Other options: [Pexels](https://www.pexels.com), [Pixabay](https://pixabay.com), [Pikwizard](https://pikwizard.com) (human-focused).
 - [Iconscout](https://iconscout.com) - high quality, editable icons, illustration and stock photos.
 - [VectorLogoZone](https://vectorlogo.zone) - freely-downloadable brand logos as vector SVGs. Other options: [Clearbit Logo API](https://clearbit.com/logo)
