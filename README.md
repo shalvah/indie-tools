@@ -28,6 +28,7 @@
 - [Excalidraw](https://excalidraw.com/) - create illustrations with a hand-drawn look and feel
 - [Photopea](https://www.photopea.com/) - edit photos online with ease without downloading software.
 - [Magic Mockups](https://magicmockups.com/) - generate free mockups for use on your websites or portfolios.
+- [AdVariq](https://advariq.com/) - AI ad creative and product marketing visual generator for DTC brands and online sellers.
 
 ## Contributing to this list
 - If there are any useful resources not included here, do send a PR.
