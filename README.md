@@ -28,6 +28,7 @@
 - [Excalidraw](https://excalidraw.com/) - create illustrations with a hand-drawn look and feel
 - [Photopea](https://www.photopea.com/) - edit photos online with ease without downloading software.
 - [Magic Mockups](https://magicmockups.com/) - generate free mockups for use on your websites or portfolios.
+- [No Stairs Please](https://nostairsplease.com/) - live-music venue directory and remote MCP server (`https://nostairsplease.com/mcp`) covering small stages across all 50 US states.
 
 ## Contributing to this list
 - If there are any useful resources not included here, do send a PR.
